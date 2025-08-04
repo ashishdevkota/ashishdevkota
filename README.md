@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashish Devkota
 
-<!--
-**ashishdevkota/ashishdevkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚩 **Technical Support Analyst | Cybersecurity & Data Enthusiast | Uxbridge, UK**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I’m driven by curiosity and a passion for **problem-solving**. With a strong background in IT support, cloud administration, and endpoint security, I specialize in defending infrastructures and optimizing workflows with a modern toolkit. Currently expanding my focus into **cyber security, machine learning, and data science**, where I blend hands-on technical experience with new-age analytical skills.
+
+---
+
+## 🔒 Cybersecurity | 💻 Machine Learning | 📊 Data Science
+
+- Reduced system downtime by **40%** through implementing advanced security protocols and monitoring
+- Increased operational efficiency by 10% via tailored ICT planning and automation
+- Improved user satisfaction and minimized support tickets by developing effective training programs
+- Data-driven mindset: leveraging automation scripting for reporting, log analysis, and system insights
+
+---
+
+## 🛠️ Key Skills & Favorite Tools
+
+- **Security & Networking:** Firewalls, VPN, SIEM, Wireshark, Snort, Cisco CCNA (basic)
+- **Cloud & Endpoint:** Azure, Entra, Office 365/M365, Intune, Autopilot, Remote Desktop
+- **Programming:** Python (automation/ML), PowerShell (basic), Bash
+- **Data Science:** Pandas, NumPy, Excel, Google Sheets
+- **ML & AI:** (Learning) TensorFlow, scikit-learn
+- **OS & Support:** Windows, MacOS, Linux, TeamViewer, AnyDesk, Zoom
+
+---
+
+## 📈 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-devkota&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-devkota&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashish-devkota&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **[Security Automation Scripts](#)** – Automating routine security tasks with Python & PowerShell
+- **[Endpoint Monitoring Suite](#)** – Real-time user session analytics and proactive alerting
+- **[ML Diagnostics Tool](#)** – Data-driven fault prediction using scikit-learn *(coming soon!)*
+- **[Cloud Policy Starter Kit](#)** – Fast-track zero-trust config for Microsoft 365
+
+---
+
+## 🌐 Let's Connect
+
+- 💬 Ask me about: system security, automation, ML projects, remote support!
+- 📧 [Email](mailto:ashish.devkota@email.com)
+- 🌍 LinkedIn: [linkedin.com/in/ashish-devkota](#)
+
+---
+
+*Always learning, always building. Open to collaborations in security, machine learning, and IT automation.*
