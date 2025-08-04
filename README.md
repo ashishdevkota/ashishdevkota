@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashish Devkota
 
-🚩 **Technical Support Analyst | Cybersecurity & Data Enthusiast | Uxbridge, UK**
+🚩 **IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialization | Data Mining | Troubleshooting | London**
 
 ---
 
