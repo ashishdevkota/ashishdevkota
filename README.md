@@ -30,15 +30,6 @@ I’m driven by curiosity and a passion for **problem-solving**. With a strong b
 
 ---
 
-## 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-devkota&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-devkota&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ashish-devkota&theme=darkhub&no-frame=true&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
