@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashish Devkota
+# 👋 Namaste Hello, I'm Ashish Devkota
 
 🚩 **IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialization | Data Mining | Troubleshooting | London**
 
