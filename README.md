@@ -1,6 +1,12 @@
 # 💫 About Me:
-👋 Namaste, Hello, I'm Ashish Devkota<br><br>IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialisation | Data Mining | Troubleshooting | London<br><br>I’m driven by curiosity and a passion for problem-solving. With a strong background in IT support, cloud administration, and endpoint security, I specialise in defending infrastructures and optimising workflows with a modern toolkit. <br>Currently expanding my focus into cyber security, machine learning, and data science, where I blend hands-on technical experience with new-age analytical skills.<br><br>🚀 Featured Projects<br><br>Security Automation Scripts – Automating routine security tasks with Python & PowerShell<br>Endpoint Monitoring Suite – Real-time user session analytics and proactive alerting<br>ML Diagnostics Tool – Data-driven fault prediction using scikit-learn (coming soon!)<br>Cloud Policy Starter Kit – Fast-track zero-trust config for Microsoft 365<br>
+👋 Namaste, Hello, I'm Ashish Devkota<br><br>IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialisation | Data Mining | Troubleshooting | London<br><br>I’m driven by curiosity and a passion for problem-solving. With a strong background in IT support, cloud administration, and endpoint security, I specialise in defending infrastructures and optimising workflows with a modern toolkit. <br>Currently expanding my focus into cyber security, machine learning, and data science, where I blend hands-on technical experience with new-age analytical skills.<br><br>
 
+## 🔒 Cybersecurity | 💻 Machine Learning | 📊 Data Science
+
+- Reduced system downtime by **40%** through implementing advanced security protocols and monitoring
+- Increased operational efficiency by 10% via tailored ICT planning and automation
+- Improved user satisfaction and minimized support tickets by developing effective training programs
+- Data-driven mindset: leveraging automation scripting for reporting, log analysis, and system insights
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mkct122/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/devkota_graphy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-devkota/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mkct122/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mkct122) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishdevkota03@gmail.com) 
@@ -20,40 +26,6 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 👋 Namaste Hello, I'm Ashish Devkota
-
-🚩 **IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialization | Data Mining | Troubleshooting | London**
-
----
-
-## About Me
-
-I’m driven by curiosity and a passion for **problem-solving**. With a strong background in IT support, cloud administration, and endpoint security, I specialize in defending infrastructures and optimizing workflows with a modern toolkit. Currently expanding my focus into **cyber security, machine learning, and data science**, where I blend hands-on technical experience with new-age analytical skills.
-
----
-
-## 🔒 Cybersecurity | 💻 Machine Learning | 📊 Data Science
-
-- Reduced system downtime by **40%** through implementing advanced security protocols and monitoring
-- Increased operational efficiency by 10% via tailored ICT planning and automation
-- Improved user satisfaction and minimized support tickets by developing effective training programs
-- Data-driven mindset: leveraging automation scripting for reporting, log analysis, and system insights
-
----
-
-## 🛠️ Key Skills & Favorite Tools
-
-- **Security & Networking:** Firewalls, VPN, SIEM, Wireshark, Snort, Cisco CCNA (basic)
-- **Cloud & Endpoint:** Azure, Entra, Office 365/M365, Intune, Autopilot, Remote Desktop
-- **Programming:** Python (automation/ML), PowerShell (basic), Bash
-- **Data Science:** Pandas, NumPy, Excel, Google Sheets
-- **ML & AI:** (Learning) TensorFlow, scikit-learn
-- **OS & Support:** Windows, MacOS, Linux, TeamViewer, AnyDesk, Zoom
-
----
-
 
 ## 🚀 Featured Projects
 
