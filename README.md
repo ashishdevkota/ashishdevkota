@@ -27,16 +27,7 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🚀 Featured Projects
-
-- **[Security Automation Scripts](#)** – Automating routine security tasks with Python & PowerShell
-- **[Endpoint Monitoring Suite](#)** – Real-time user session analytics and proactive alerting
-- **[ML Diagnostics Tool](#)** – Data-driven fault prediction using scikit-learn *(coming soon!)*
-- **[Cloud Policy Starter Kit](#)** – Fast-track zero-trust config for Microsoft 365
-
----
-
-## 🌐 Let's Connect
+## 
 
 - 💬 Ask me about: system security, automation, ML projects, remote support!
 - 📧 [Email](mailto:ashish.devkota@email.com)
