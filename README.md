@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Namaste, Hello, I'm Ashish Devkota<br><br>IOT security | Detect and Mitigate DDoS | Google Cybersecurity Specialisation | Data Mining | Troubleshooting | London<br><br>I’m driven by curiosity and a passion for problem-solving. With a strong background in IT support, cloud administration, and endpoint security, I specialise in defending infrastructures and optimising workflows with a modern toolkit. <br>Currently expanding my focus into cyber security, machine learning, and data science, where I blend hands-on technical experience with new-age analytical skills.<br><br>
+👋 Namaste, Hello, I'm Ashish Devkota<br><br>  𝗜𝗢𝗧 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 | 𝗗𝗲𝘁𝗲𝗰𝘁 𝗮𝗻𝗱 𝗠𝗶𝘁𝗶𝗴𝗮𝘁𝗲 𝗗𝗗𝗼𝗦 | 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗦𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝗮𝘁𝗶𝗼𝗻 | 𝗗𝗮𝘁𝗮 𝗠𝗶𝗻𝗶𝗻𝗴 | 𝗧𝗿𝗼𝘂𝗯𝗹𝗲𝘀𝗵𝗼𝗼𝘁𝗶𝗻𝗴 | 𝗟𝗼𝗻𝗱𝗼𝗻 <br><br>I’m driven by curiosity and a passion for problem-solving. With a strong background in IT support, cloud administration, and endpoint security, I specialise in defending infrastructures and optimising workflows with a modern toolkit. <br>Currently expanding my focus into cyber security, machine learning, and data science, where I blend hands-on technical experience with new-age analytical skills.<br><br>
 
 ## 🔒 Cybersecurity | 💻 Machine Learning | 📊 Data Science
 
